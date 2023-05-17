@@ -1,4 +1,4 @@
-<img align="right" width="1000" height="200" src="https://raw.githubusercontent.com/cu-esiil/innovation-summit-webpages/main/esiil-earthlab-cires-header.png">
+<img align="right" width="1000" height="200" src="https://raw.githubusercontent.com/CU-ESIIL/innovation-summit-webpages/main/esiil-earthlab-cires-header.png">
 
 
 
